@@ -1,7 +1,6 @@
 #it is a script used to consume messages from partition in kafka
 
 #!/usr/bin/env python3
-#!/usr/bin/env python3
 from kafka import KafkaConsumer
 import json
 
